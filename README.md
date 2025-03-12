@@ -9,8 +9,10 @@
 
 <br>
 
-**Imagem da Capa do Artigo gerada no Canva:**
 ![Capa do Artigo](./dio-article-cover.png)
+**Imagem da Capa do Artigo gerada no Canva**
 
-**Mockup do Artigo na DIO:**
-![Mockup do Artigo](./dio-article-mockup.png)
+<br><br>
+
+**Mockup do Artigo na DIO** (clique na imagem para ler o artigo)
+[![Mockup do Artigo](./dio-article-mockup.png)](https://web.dio.me/articles/da-forca-ao-codigo-uma-api-digna-de-um-mestre-jedi-c2e34a0d49d7?back=/articles)
